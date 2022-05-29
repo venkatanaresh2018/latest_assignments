@@ -1,5 +1,12 @@
 # latest_assignments
 
+
+this is the structure of the project 
+
+![Screenshot (43)](https://user-images.githubusercontent.com/106013898/170874206-bb9dd2f4-9147-464e-83fa-73af34c026d5.png)
+
+
+
 the following are the test ng frame work assignments  :
 
 1.
@@ -59,6 +66,8 @@ Assignment Scenario
 
 The exercise is to create a Java/JavaScript project (or projects) in Eclipse/Intellij, add Cucumber and any other add-ins you might need.   
 
+ 
+ 
  
 
 Develop the following three tests: 
