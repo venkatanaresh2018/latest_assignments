@@ -52,17 +52,13 @@ Assignment Scenario
 4.
 
 
-/*
+working with the iframes i.e single iframe and iframe with fiframe  
 
- * 
- * Assignment Scenario
+http://demo.automationtesting.in/Frames.html
 
-1)Navigate http://automationpractice.com/
 
-2)Click on “Contact us” and fill all mandatory fields (upload a file for Attach File )
 
-3)Click on Send and Verify Message “Your message has been successfully sent to our team.”
- */	
+
 
 
 
