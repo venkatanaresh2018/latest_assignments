@@ -51,14 +51,18 @@ Assignment Scenario
 
 4.
 
-Assignment Scenario
+
+/*
+
+ * 
+ * Assignment Scenario
 
 1)Navigate http://automationpractice.com/
 
 2)Click on “Contact us” and fill all mandatory fields (upload a file for Attach File )
 
 3)Click on Send and Verify Message “Your message has been successfully sent to our team.”
-
+ */	
 
 
 
